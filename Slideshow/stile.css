@@ -1,0 +1,27 @@
+.pic {
+    margin-left: 300px;
+    margin-top: 40px;
+    /*border: solid black;*/
+    width: 900px;
+    border-style: groove;
+}
+
+.prevPic {
+    position: absolute;
+    margin: 270px 0px 0px 320px;
+
+}
+
+.nextPic {
+    position: absolute;
+    margin: 270px -50px;
+}
+
+button {
+    /*border-style: none;*/
+    font-size: 25px;
+    outline: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
